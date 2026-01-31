@@ -9,6 +9,7 @@ SeSAC 도봉 과정에서 학습한 내용을 매일 정리하고 기록하는 �
 
 - **Day 01:** [지난 1개월의 과정 회고 및 앞으로의 다짐](Day01_Grand_Opening.md)
 - **Day 02:** [데이터베이스 모델링과 ERD 설계 실습](Day02_DB_modeling.md)
+- **Day 03:** [설계의 본질과 객체의 확장](Day_03_Mini_TeamProject.md)
 
 ### 학습 카테고리
 
