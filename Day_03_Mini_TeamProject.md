@@ -8,7 +8,7 @@
 
 2인 1조로 진행된 미니 프로젝트의 목표는 '온라인 강의 사이트'의 데이터베이스 모델링이었습니다. 사용자에게 보이는 직관적인 서비스 흐름 이면에, 데이터 무결성을 보장하기 위한 치밀한 설계가 필요함을 절감했습니다.
 
-![image](C:\sesac_prac\sql\erd\study_mini_project\erd.png)
+![팀 프로젝트 ERD 결과물](sql/erd/study_mini_project/erd.png)
 
 ### 다대다(N:M) 관계의 해소와 실체화
 
