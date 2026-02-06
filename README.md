@@ -9,10 +9,10 @@ SeSAC 도봉 과정에서 학습한 내용을 매일 정리하고 기록하는 �
 
 - **Day 01:** [지난 1개월의 과정 회고 및 앞으로의 다짐](Day01_Grand_Opening.md)
 - **Day 02:** [데이터베이스 모델링과 ERD 설계 실습](Day02_DB_modeling.md)
-- **Day 03:** [설계의 본질과 객체의 확장](Day_03_Mini_TeamProject.md)
-- **Day 04:** [프레임워크 설치, 로직 구현](Day04_fastapi_and_dbproject.md)
-- **Day 05:** [FastApi연습, 알고리즘 문제와 그간의 문법 복습](Day05_fastapi_intergration.md)
-- **Day 06:** [데이터의 영속성과 아키텍처의 분리] (Day06_fastapi_Layered Architecture.md)
+- **Day 03:** [설계의 본질과 객체의 확장](Day03_Mini_TeamProject.md)
+- **Day 04:** [프레임워크 설치와 로직의 분리](Day04_fastapi_and_dbproject.md)
+- **Day 05:** [FastAPI 통합 실습과 알고리즘](Day05_fastapi_intergration.md)
+- **Day 06:** [데이터의 영속성과 아키텍처의 분리](Day06_fastapi_Layered%20Architecture.md)
 - **Day 07:** [데이터의 영속성과 알고리즘적 사고의 심화](Day07_fastapi_algoprac.md)
 
 ### 학습 카테고리
