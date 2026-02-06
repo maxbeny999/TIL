@@ -12,7 +12,8 @@ SeSAC 도봉 과정에서 학습한 내용을 매일 정리하고 기록하는 �
 - **Day 03:** [설계의 본질과 객체의 확장](Day_03_Mini_TeamProject.md)
 - **Day 04:** [프레임워크 설치, 로직 구현](Day04_fastapi_and_dbproject.md)
 - **Day 05:** [FastApi연습, 알고리즘 문제와 그간의 문법 복습](Day05_fastapi_intergration.md)
-
+- **Day 06:** [데이터의 영속성과 아키텍처의 분리] (Day06_fastapi_Layered Architecture.md)
+- **Day 07:** [데이터의 영속성과 알고리즘적 사고의 심화](Day07_fastapi_algoprac.md)
 
 ### 학습 카테고리
 
