@@ -15,6 +15,7 @@ SeSAC 도봉 과정에서 학습한 내용을 매일 정리하고 기록하는 �
 - **Day 06:** [데이터의 영속성과 아키텍처의 분리](Day06_fastapi_Layered%20Architecture.md)
 - **Day 07:** [데이터의 영속성과 알고리즘적 사고의 심화](Day07_fastapi_algoprac.md)
 - **Day 08:** [관계의 정의와 효율적인 데이터 처리](Day08_Relation_and_Efficiency.md)
+- **Day 09:** [로그인, 개발경험](Day09_Auth_and_Performance.md)
 
 ### 학습 카테고리
 
