@@ -18,7 +18,7 @@ SeSAC 도봉 과정에서 학습한 내용을 매일 정리하고 기록하는 �
 - **Day 09:** [로그인, 개발경험](Day09_Auth_and_Performance.md)
 - **Day 10:** [시스템의 보안과 데이터 로직](Day10_Security_and_CoreLogic.md)
 - **Day 11:** [미니 프로젝트 스터디룸](Day11_Mini_Projecet.md)
-
+- **Day 12:** [다대다 관계의 설계](Day12_ManyToMany_and_DataHandling.md)
 ### 학습 카테고리
 
 - **Language:** Python, SQL 기초 문법
