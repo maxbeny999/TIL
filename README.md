@@ -19,9 +19,11 @@ SeSAC 도봉 과정에서 학습한 내용을 매일 정리하고 기록하는 �
 - **Day 10:** [시스템의 보안과 데이터 로직](Day10_Security_and_CoreLogic.md)
 - **Day 11:** [미니 프로젝트 스터디룸](Day11_Mini_Projecet.md)
 - **Day 12:** [다대다 관계의 설계](Day12_ManyToMany_and_DataHandling.md)
+- **Day 13:** [알렘빅, 커서, 데크](Day13_deque_alembic_cursor.md)
+
 ### 학습 카테고리
 
 - **Language:** Python, SQL 기초 문법
-- **Database:** 데이터 모델링, 쿼리 작성
-- **Web:** 네트워크 구조, API 활용
-- **Algorithm:** 자료구조, 코딩 테스트 풀이
+- **Database:** 데이터 모델링, 쿼리 작성, 마이그레이션 도구 적용
+- **Web:** 네트워크 구조, API 활용, 인증 및 의존성 주입
+- **Algorithm:** 자료구조, 큐와 시뮬레이션, 코딩 테스트 풀이
