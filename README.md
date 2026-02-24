@@ -20,7 +20,7 @@ SeSAC 도봉 과정에서 학습한 내용을 매일 정리하고 기록하는 �
 - **Day 11:** [미니 프로젝트 스터디룸](Day11_Mini_Projecet.md)
 - **Day 12:** [다대다 관계의 설계](Day12_ManyToMany_and_DataHandling.md)
 - **Day 13:** [알렘빅, 커서, 데크](Day13_deque_alembic_cursor.md)
-
+- **Day 14:** [클라이언트의 입력과 서버의 방어 로직](Day14_Client_Input_and_Server_Logic.md)
 ### 학습 카테고리
 
 - **Language:** Python, SQL 기초 문법
