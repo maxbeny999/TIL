@@ -22,7 +22,8 @@ SeSAC 도봉 과정에서 학습한 내용을 매일 정리하고 기록하는 �
 - **Day 13:** [알렘빅, 커서, 데크](Day13_deque_alembic_cursor.md)
 - **Day 14:** [클라이언트의 입력과 서버의 방어 로직](Day14_Client_Input_and_Server_Logic.md)
 - **Day 15:** [데이터의 방어적 제어와 시각적 레이아웃의 구조화](Day15_Defensive_Data_and_Visual_Layout.md)
-- **Day 16:** [데이터 크롤링과 그리디 알고리즘] (Day16_Scraping_algo.md)
+- **Day 16:** [데이터 크롤링과 그리디 알고리즘](Day16_Scraping_algo.md)
+- **Day 17:** [자바스크립트 파이썬 비교 학습](Day17_JavaScript_and_Python)
 ### 학습 카테고리
 
 - **Language:** Python, SQL 기초 문법
